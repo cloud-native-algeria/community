@@ -20,6 +20,7 @@ This is the very beginning of cloud native algeria, please share your ideas / pr
 
 ## Meetings and Communication
 Proposing the first meeting to be on 2024-07-13 6PM GMT+1
+
 Agenda and Notes: [google docs](https://docs.google.com/document/d/1VZFX2m3Es9DlmU4f62HBba5uhHCRxKUjiLEImKt0wmo/edit#heading=h.z3lcj4oxqu4)
 
 ---
