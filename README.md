@@ -13,7 +13,7 @@ This is the very beginning of cloud native algeria, please share your ideas / pr
 2. **Discord**: Join our discord [link](https://discord.gg/EdGDb55W)
 
 ## Meetings and Communication
-bi-weakly meeting on thursdays at 6PM GMT+1, next meeting will be 05 september 2024.
+bi-weakly meetings on thursdays at 6PM GMT+1, next meeting will be 05 september 2024.
 
 Agenda and Notes: [google docs](https://docs.google.com/document/d/1VZFX2m3Es9DlmU4f62HBba5uhHCRxKUjiLEImKt0wmo/edit#heading=h.z3lcj4oxqu4)
 
